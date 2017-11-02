@@ -1,0 +1,22 @@
+{
+  "name": "npm-run-timer",
+  "version": "1.0.0",
+  "description": "Timer wrapper for you npm scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:manda-linda/npm-run-timer.git"
+  },
+  "keywords": [
+    "timer",
+    "npm"
+  ],
+  "author": "Amanda daSilva <adasilva@grubhub.com>",
+  "license": "MIT",
+  "bin": {
+    "npm-run-timer": "bin/npm-run-timer.js"
+  }
+}
